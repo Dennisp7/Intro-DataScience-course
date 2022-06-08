@@ -1,4 +1,5 @@
-# finalProjectReport 
+# Intro to Data Science: Final Project Report 
+
 This read me is meant to serve as a mini code book of sorts to help guide the viewer in understanding and locating key information throughout the analysis. 
 
 This project is an exploratory data analysis (EDA) of the survey results from a current experiment being run. In the repository, I included the research proposal of the original experiment to assist the viewer in understanding the basis of the original study. The research proposal is named ‘Research Paper_1.pdf’ and can be found in the ‘docs’ folder. This paper is unfinished as the study is still on-going. Again, this paper does not describe the purpose of this analysis, but is soley meant to provide background information of the original experiment that is being examined.
